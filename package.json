@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
     "@emitterware/app": "^0.1.0",
     "@emitterware/bundler": "^0.1.0",
     "@emitterware/http": "^0.1.1",
@@ -20,9 +23,5 @@
     "react-dom": "^16.8.6",
     "styled-components": "^4.2.0",
     "styled-system": "^4.2.2"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.4.4",
-    "@babel/preset-react": "^7.0.0"
   }
 }
