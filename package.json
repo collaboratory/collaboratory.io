@@ -17,7 +17,7 @@
     "@emitterware/bundler": "^0.1.0",
     "@emitterware/http": "^0.1.1",
     "@emitterware/router": "0.0.5",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "polished": "^3.3.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
