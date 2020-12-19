@@ -1,0 +1,33 @@
+{
+  "name": "collaboratory.io",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "start": "svelte-kit start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@snowpack/plugin-build-script": "^2.0.12",
+    "@snowpack/plugin-typescript": "latest",
+    "@sveltejs/adapter-static": "next",
+    "@sveltejs/kit": "next",
+    "@sveltejs/snowpack-config": "next",
+    "autoprefixer": "^10.1.0",
+    "cssnano": "^4.1.10",
+    "postcss": "^8.2.1",
+    "postcss-cli": "^8.3.1",
+    "postcss-font-magician": "^3.0.0",
+    "postcss-typography": "^1.0.0",
+    "prettier": "latest",
+    "prettier-plugin-svelte": "latest",
+    "svelte": "latest",
+    "svelte-preprocess": "latest",
+    "tslib": "latest",
+    "typescript": "latest",
+    "typography-theme-github": "^0.16.19"
+  },
+  "resolutions": {
+    "snowpack": "2.17.0"
+  }
+}
