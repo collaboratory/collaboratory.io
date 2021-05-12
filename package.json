@@ -15,7 +15,7 @@
     "@sveltejs/snowpack-config": "next",
     "autoprefixer": "^10.1.0",
     "cssnano": "^4.1.10",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "postcss-cli": "^8.3.1",
     "postcss-font-magician": "^3.0.0",
     "postcss-typography": "^1.0.0",
